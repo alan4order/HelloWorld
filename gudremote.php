@@ -1,3 +1,3 @@
 <?php
-	$output = shell_exec('git status');
+	$output = shell_exec('git pull');
 	echo '<pre>' . $output . '</pre>';
