@@ -1,5 +1,5 @@
 <?php
 
-//echo phpinfo();
+echo phpinfo();
 //echo 'Ever';
-echo 'Alan';
+//echo 'Alan';
