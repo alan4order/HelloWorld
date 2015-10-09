@@ -1,4 +1,5 @@
 <?php
 
-echo phpinfo();
-//echo 'Prueba';
+//echo phpinfo();
+echo 'Ever';
+//echo 'Alan';
